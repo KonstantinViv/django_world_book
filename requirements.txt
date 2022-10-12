@@ -1,5 +1,4 @@
 anyio==3.5.0
-apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asgiref==3.5.0
@@ -108,7 +107,7 @@ prometheus-client==0.14.1
 prompt-toolkit==3.0.31
 protobuf==3.12.4
 psutil==5.9.1
-psycopg2==2.9.4
+psycopg2-binary==2.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycairo==1.20.1
