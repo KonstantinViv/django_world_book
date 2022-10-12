@@ -59,7 +59,6 @@ jupyterlab-widgets==3.0.3
 keyring==23.5.0
 kiwisolver==1.4.4
 langdetect==1.0.7
-language-selector==0.1
 launchpadlib==1.10.16
 llvmlite==0.39.1
 lockfile==0.12.2
